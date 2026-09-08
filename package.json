@@ -1,0 +1,12 @@
+{
+  "name": "landing-page-cicd",
+  "version": "1.0.0",
+  "description": "Landing page sobre GitHub Actions, CI/CD e AWS",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
